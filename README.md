@@ -6,14 +6,14 @@ USAGE:
   Import as a Java project into Eclipse or the IDE of choice.
   Make sure JRE/JDK are up to date.
   
-  In 'public/index.html' modify file to include link(s) to media files.
-  Create folder under 'testProj/' to serve content and name it "CDN", place media files in folder.
-  Create folder under 'testProj/' that stores retrieved content and name it "retrieve".
-  
-  Run in order:
-    1) src/CDN/his/WebServer.java
-    2) src/CDN/client/LocalDNS.java
-    3) src/CDN/his/AuthDNSHis.java
-    4) src/CDN/hers/AuthDNSHers.java
-    5) src/CDN/hers/ContentServer.java
+  In 'public/index.html' modify file to include link(s) to media files.  
+  Create folder under 'testProj/' to serve content and name it "CDN", place media files in folder.  
+  Create folder under 'testProj/' that stores retrieved content and name it "retrieve".  
+    
+  Run in order:  
+    1) src/CDN/his/WebServer.java  
+    2) src/CDN/client/LocalDNS.java  
+    3) src/CDN/his/AuthDNSHis.java  
+    4) src/CDN/hers/AuthDNSHers.java  
+    5) src/CDN/hers/ContentServer.java  
     6) src/CDN/client/ClientApplication.java
