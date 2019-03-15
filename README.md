@@ -11,9 +11,9 @@ USAGE:
   Create folder under 'testProj/' that stores retrieved content and name it "retrieve".  
     
   Run in order:  
-    1) src/CDN/his/WebServer.java  
-    2) src/CDN/client/LocalDNS.java  
-    3) src/CDN/his/AuthDNSHis.java  
-    4) src/CDN/hers/AuthDNSHers.java  
-    5) src/CDN/hers/ContentServer.java  
-    6) src/CDN/client/ClientApplication.java
+      1) src/CDN/his/WebServer.java  
+      2) src/CDN/client/LocalDNS.java  
+      3) src/CDN/his/AuthDNSHis.java  
+      4) src/CDN/hers/AuthDNSHers.java  
+      5) src/CDN/hers/ContentServer.java  
+      6) src/CDN/client/ClientApplication.java
