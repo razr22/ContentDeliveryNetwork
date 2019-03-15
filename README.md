@@ -10,7 +10,7 @@
   Create folder under 'testProj/' to serve content and name it "CDN", place media files in folder.  
   Create folder under 'testProj/' that stores retrieved content and name it "retrieve".  
     
-  **Run in order**:
+  **Run in order**:  
       1) src/CDN/his/WebServer.java  
       2) src/CDN/client/LocalDNS.java  
       3) src/CDN/his/AuthDNSHis.java  
