@@ -222,7 +222,7 @@ public class ClientApplication {
 	
 	public static void main(String[] args) throws IOException {
 		//get user input
-		System.out.print("Enter Content File (1,2,3,4): ");
+		System.out.print("Enter File ID Line Number: ");
 		Scanner in = new Scanner(System.in);
 		int contentID = in.nextInt();
 		in.close();
